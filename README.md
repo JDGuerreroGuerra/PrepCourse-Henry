@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Éste es un repositorio nuevo del módulo2 de HENRY
+Éste proyecto es una prueba de como crear un repositorio y clonarlo desde github hasta mi computador
